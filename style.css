@@ -39,7 +39,7 @@ nav a:hover {
 .ban {
 	width: 100%;
 	text-align: center;
-	padding-top: 70px;
+	padding-top: 10px;
 }
 
 .ban img {
@@ -123,4 +123,8 @@ footer .articlefooter img {
 	height: 90px;
 	width: 90px;
 
+}
+
+.developpe {
+margin-left: 1500px;
 }
