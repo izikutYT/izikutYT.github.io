@@ -1,10 +1,10 @@
 nav a {
-  color: #fff;
+  color: #6C5CE6;
 }
 
 nav a:hover {
   text-decoration: none;
-  color: #7CB9E8;
+  color: #10B3F5;
 }
 
 .logo {
@@ -30,7 +30,7 @@ footer .articlefooter {
   margin-right: 10px;
   width: 100%;
   max-width: 100%;
-  color: #fff;
+  color: #C7E8F5;
   text-align: center;
 }
 
